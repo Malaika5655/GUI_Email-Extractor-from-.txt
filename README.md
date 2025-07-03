@@ -1,4 +1,4 @@
-# CodeAlpha_GUI_Email-Extractor-from.txt
+# GUI_Email-Extractor-from.txt
 🧠 What It Does:
 This project is a sleek and user-friendly Email Extractor tool built with Python's tkinter. It allows users to upload a .txt file, extract all valid email addresses, sort them alphabetically, and optionally save them to a new file — all within a beautiful pastel-themed GUI interface. 🌸
 
